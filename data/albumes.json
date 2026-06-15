@@ -18,7 +18,7 @@
     "anio": 1980,
     "sello": "Atlantic",
     "pistas": 10,
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/sixty/Acdc_backinblack.jpg/220px-Acdc_backinblack.jpg",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/92/ACDC_Back_in_Black.png",
     "slug": "back-in-black",
     "resumen": "El album de hard rock mas vendido de todos los tiempos.",
     "descripcion": "Primer disco de AC/DC con Brian Johnson tras la muerte de Bon Scott. Incluye los clasicos Hells Bells y You Shook Me All Night Long."
@@ -54,7 +54,7 @@
     "anio": 1969,
     "sello": "Apple",
     "pistas": 17,
-    "imagen": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a4/The_Beatles_Abbey_Road_album_cover.jpg",
     "slug": "abbey-road",
     "resumen": "El ultimo album grabado por los Beatles.",
     "descripcion": "Con el medley del lado B como punto culminante, Abbey Road es considerado uno de los mejores albumes de la historia de la musica."
@@ -66,7 +66,7 @@
     "anio": 1995,
     "sello": "XL Recordings",
     "pistas": 12,
-    "imagen": "https://upload.wikimedia.org/wikipedia/en/b/b7/RadioheadTheBends.jpg",
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/5/55/Radioheadthebends.png",
     "slug": "the-bends",
     "resumen": "El album que llevo el rock alternativo al mainstream.",
     "descripcion": "The Bends es el segundo album de Radiohead y marca el inicio de su evolucion hacia un sonido mas elaborado y experimental."
