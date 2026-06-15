@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "slug": "thriller",
+    "resumen": "El album mas vendido de la historia.",
+    "descripcion": "Album de Michael Jackson que redefinio la musica pop de los anos 80 con hits como Beat It y Billie Jean."
+  },
+  {
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "genero": "Rock",
+    "anio": 1980,
+    "sello": "Atlantic",
+    "pistas": 10,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/sixty/Acdc_backinblack.jpg/220px-Acdc_backinblack.jpg",
+    "slug": "back-in-black",
+    "resumen": "El album de hard rock mas vendido de todos los tiempos.",
+    "descripcion": "Primer disco de AC/DC con Brian Johnson tras la muerte de Bon Scott. Incluye los clasicos Hells Bells y You Shook Me All Night Long."
+  },
+  {
+    "titulo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "genero": "Rock",
+    "anio": 1977,
+    "sello": "Warner Bros",
+    "pistas": 11,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+    "slug": "rumours",
+    "resumen": "Uno de los albumes mas aclamados de la historia del rock.",
+    "descripcion": "Grabado durante la ruptura de dos de sus miembros, Rumours es un testimonio de emociones crudas convertidas en pop-rock impecable."
+  },
+  {
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Rock Progresivo",
+    "anio": 1973,
+    "sello": "Harvest",
+    "pistas": 10,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+    "slug": "dark-side-of-the-moon",
+    "resumen": "Una obra maestra del rock progresivo.",
+    "descripcion": "Explora temas como el tiempo, la codicia y la locura. Permanecio en el Billboard 200 por mas de 900 semanas."
+  },
+  {
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Pop",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+    "slug": "abbey-road",
+    "resumen": "El ultimo album grabado por los Beatles.",
+    "descripcion": "Con el medley del lado B como punto culminante, Abbey Road es considerado uno de los mejores albumes de la historia de la musica."
+  },
+  {
+    "titulo": "The Bends",
+    "artista": "Radiohead",
+    "genero": "Rock alternativo",
+    "anio": 1995,
+    "sello": "XL Recordings",
+    "pistas": 12,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/b/b7/RadioheadTheBends.jpg",
+    "slug": "the-bends",
+    "resumen": "El album que llevo el rock alternativo al mainstream.",
+    "descripcion": "The Bends es el segundo album de Radiohead y marca el inicio de su evolucion hacia un sonido mas elaborado y experimental."
+  }
+]
